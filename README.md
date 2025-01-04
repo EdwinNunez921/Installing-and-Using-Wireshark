@@ -374,7 +374,7 @@ Go back to Microsoft Azure, click on the Linux virtual machine, then navigate to
 <br />
 
 <p>
-<img src="!https://github.com/user-attachments/assets/b64171a4-1e3f-4e3f-aa52-05aacc812c52" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/b64171a4-1e3f-4e3f-aa52-05aacc812c52" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Then, click on 'Network security settings.
